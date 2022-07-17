@@ -1,0 +1,5 @@
+.userCard {
+	composes: userCard from "./UserCard.module.scss";
+	display: inherit;
+	justify-content: inherit;
+}
